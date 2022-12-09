@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Mesa de comedor",
+        "description": "mesa de madera",
+        "price": 1400,
+        "thumbnail": "Sin imagen",
+        "code": [],
+        "stock": 60
+    },
+    {
+        "id": 1,
+        "title": "Mesa de comedor",
+        "description": "mesa de madera",
+        "price": 1400,
+        "thumbnail": "Sin imagen",
+        "code": [],
+        "stock": 60
+    },
+    {
+        "id": 2,
+        "title": "Sofa de sala",
+        "description": "Producto",
+        "price": 1000,
+        "thumbnail": "Sin imagen",
+        "code": [],
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "title": "Sofa de sala",
+        "description": "Producto",
+        "price": 1000,
+        "thumbnail": "Sin imagen",
+        "code": [],
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "title": "Sofa de sala",
+        "description": "Producto",
+        "price": 1000,
+        "thumbnail": "Sin imagen",
+        "code": [],
+        "stock": 100
+    },
+    {
+        "id": 1,
+        "title": "Mesa de comedor",
+        "description": "mesa de madera",
+        "price": 1400,
+        "thumbnail": "Sin imagen",
+        "code": [],
+        "stock": 60
+    },
+    {
+        "id": 2,
+        "title": "Sofa de sala",
+        "description": "Producto",
+        "price": 1000,
+        "thumbnail": "Sin imagen",
+        "code": [],
+        "stock": 100
+    }
+]
